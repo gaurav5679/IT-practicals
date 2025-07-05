@@ -1,1 +1,1 @@
-# IT-practicals
+# 1st_sem_IT
